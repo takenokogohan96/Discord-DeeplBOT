@@ -1,3 +1,5 @@
+# ※このリポジトリはアーカイブされています
+
 # Discord-DeeplBOT
 
 これはDeepl翻訳を用いてDiscordのテキストメッセージを日本語から英語、もしくは英語から日本語へ翻訳するDiscord Botです<br>
